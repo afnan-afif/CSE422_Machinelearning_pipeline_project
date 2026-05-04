@@ -1,4 +1,4 @@
-# CSE422_Machinelearning_pipeline_project
+# CSE422_Machinelearning_pipeline_project Spring26
 
 Explore.ipynb file is the main file where everything is done
   The raw uncooked dataset is 4.csv
